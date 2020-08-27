@@ -1,0 +1,17 @@
+{
+  "name": "ienvironment-mqtt",
+  "version": "0.0.1",
+  "description": "ienvironment mqtt module",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "mqtt",
+    "node.js",
+    "iot",
+    "ienvironment"
+  ],
+  "author": "Mateus Moura Santos",
+  "license": "ISC"
+}
