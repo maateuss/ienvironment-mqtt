@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b4d97a10-35d2-4209-80ee-d7333cac2489/resourceGroups/ienvironment/providers/Microsoft.Web/sites/ienvironmentbroker",
+    "appService.deploySubpath": "."
+}
